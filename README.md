@@ -1,11 +1,10 @@
-# **Jan Ali Shah**  
 **Senior AI/ML Engineer & Backend Developer**  
 
 📍 Karachi, Pakistan | 📞 +923408656667 | ✉️ [heyitsali.jan313@gmail.com](mailto:heyitsali.jan313@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/jan-ali-kazmi/) | [GitHub](https://github.com/JanAli-socool) | 🔗 [Portfolio](https://janali-socool.github.io/jan-ali-portfolio/)
 
 ## **👋 About Me**  
-Hello! I'm **Jan Ali Shah**, a highly driven and innovative Senior AI/ML Engineer and Backend Developer with over **4 years of experience** in building, deploying, and optimizing scalable software solutions. My expertise lies in crafting **AI-powered tools**, modernizing **legacy systems**, and delivering impactful solutions that enhance productivity and transform user experiences.  
+Hello! I'm **Jan Ali Kazmi**, a highly driven and innovative Senior AI/ML Engineer and Backend Developer with over **4 years of experience** in building, deploying, and optimizing scalable software solutions. My expertise lies in crafting **AI-powered tools**, modernizing **legacy systems**, and delivering impactful solutions that enhance productivity and transform user experiences.  
 
 With a passion for **cutting-edge technologies**, I thrive on solving complex problems and driving innovation. My commitment to excellence has been recognized through achievements such as the **Google-Amazon Deep Learning Nanodegree** and successful delivery of projects in **fraud detection**, **technical tooling**, and **IoT-based smart solutions**.  
 
