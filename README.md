@@ -53,6 +53,3 @@ I bring a blend of **technical expertise**, **strategic thinking**, and a relent
 I'm always excited to discuss new opportunities, cutting-edge technologies, or collaborate on innovative projects. Feel free to reach out to me via:  
 📧 [Email](mailto:heyitsali.jan313@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jan-ali-kazmi/)  
-
-🔗 [Portfolio](https://janali-socool.github.io/jan-ali-portfolio/)
-🔗 [Github](https://github.com/JanAli-socool)  
