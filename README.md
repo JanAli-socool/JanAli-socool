@@ -1,4 +1,4 @@
-## **Senior AI/ML Engineer & Backend Developer**  
+## **Senior AI/ML Engineer & Backend Developer -Python**  
 
 📍 Karachi, Pakistan | 📞 +923408656667 | ✉️ [heyitsali.jan313@gmail.com](mailto:heyitsali.jan313@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/jan-ali-kazmi/) | [GitHub](https://github.com/JanAli-socool) | 🔗 [Portfolio](https://janali-socool.github.io/jan-ali-portfolio/)
