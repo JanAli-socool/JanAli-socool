@@ -1,9 +1,7 @@
-## **Senior AI/ML Engineer & Backend Developer -Python**  
+ ## 👋 Jan Ali Kazmi | Senior AI/ML Engineer | Azure Data Engineer | Backend Developer  
 
 📍 Karachi, Pakistan | 📞 +923408656667 | ✉️ [heyitsali.jan313@gmail.com](mailto:heyitsali.jan313@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/jan-ali-kazmi/) | [GitHub](https://github.com/JanAli-socool) | 🔗 [Portfolio](https://janali-socool.github.io/jan-ali-portfolio/)
-
-# 👋 Jan Ali Kazmi | Senior AI/ML Engineer | Azure Data Engineer | Backend Developer  
 
 ## 🚀 About Me  
 Hello! I'm **Jan Ali Kazmi**, a **Senior AI/ML Engineer, Azure Data Engineer, and Backend Developer** with **4+ years of experience** in designing, developing, and deploying **scalable, cloud-based software solutions**.  
@@ -79,5 +77,6 @@ I specialize in **AI-powered automation, data architecture, and system moderniza
 
 ## **📬 Let's Connect!**  
 I'm always excited to discuss new opportunities, cutting-edge technologies, or collaborate on innovative projects. Feel free to reach out to me via:  
+
 📧 [Email](mailto:heyitsali.jan313@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jan-ali-kazmi/)  
