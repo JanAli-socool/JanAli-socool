@@ -7,6 +7,8 @@ Hello! I'm **Jan Ali Kazmi**, a **Senior AI/ML Engineer, Azure Data Engineer, an
 I specialize in **AI-powered automation, data architecture, and system modernization**, leveraging **Microsoft Azure, machine learning, and backend technologies** to build high-performance applications. My expertise includes **distributed data processing, cloud integration, and AI-driven analytics**, ensuring **efficiency, scalability, and security**.  
 
 🏆 **Achievements:**  
+- **Professional Certified Microsoft Azure AI**
+- **Certified Professional Microsoft Gen AI**
 - **Google-Amazon Deep Learning Nanodegree Scholar**  
 - **Azure Data Engineering Expert** (Data Factory, Synapse, Databricks, SQL)  
 - **Led multiple AI & data-driven projects in FinTech, IoT, and LegalTech**  
