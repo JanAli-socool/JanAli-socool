@@ -1,5 +1,5 @@
 📍 Karachi, Pakistan | 📞 +923408656667 | ✉️ [heyitsali.jan313@gmail.com](mailto:heyitsali.jan313@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/jan-ali-kazmi/) | [GitHub](https://github.com/JanAli-socool) | 🔗 [Portfolio](https://janali-socool.github.io/jan-ali-portfolio/)
+🌐 [LinkedIn](https://www.linkedin.com/in/jan-ali-kazmi/) | [GitHub](https://github.com/JanAli-socool) | 🔗 [Portfolio](https://jan-ali-portfolio.vercel.app/)
 
 ## 🚀 About Me  
 Hello! I'm **Jan Ali Kazmi**, a **Senior AI/ML Engineer, Azure Data Engineer, and Backend Developer** with **4+ years of experience** in designing, developing, and deploying **scalable, cloud-based software solutions**.  
