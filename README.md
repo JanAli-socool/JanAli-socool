@@ -30,28 +30,26 @@
 
 ---
 
-## `> ABOUT_ME.md`
+## `ABOUT ME`
 
 ```yaml
-name:       Jan Ali Kazmi
-role:       Senior AI Engineer
-location:   Karachi, Pakistan
-experience: 6+ years
-focus:      [Generative AI, RAG, LLM Apps, Agentic Systems, Scalable Backends]
-domains:    [Legal Tech, FinTech, Housing Finance, Enterprise SaaS]
-current:    Senior Software Engineer @ PeakSNR Tech (Canada, Remote)
-mindset:    "Production outcomes > flashy demos"
+Name:       Jan Ali Kazmi
+Role:       Senior AI Engineer
+Location:   Karachi, Pakistan
+Experience: 6+ years
+Focus:      Generative AI, RAG, LLM Apps, Agentic Systems, Scalable Backends
+Domains:    Legal Tech, FinTech, Housing Finance, Enterprise SaaS
+Current:    Senior Software Engineer @ PeakSNR Tech (Canada, Remote)
+Mindset:    "Production outcomes > flashy demos"
 ```
 
-I design and ship **enterprise-grade AI platforms** — from RAG pipelines and agentic systems to scalable backends. Built products with **Azure OpenAI**, **LangChain**, and **LangGraph** across legal tech, fintech, and housing finance. I focus on **cost-aware model routing**, **verifier loops**, and systems that survive real traffic — not demos.
+I design and ship **enterprise-grade AI platforms** from RAG pipelines and agentic systems to scalable backends. Built products with **Azure OpenAI**, **LangChain**, and **LangGraph** across legal tech, fintech, and housing finance. I focus on **cost-aware model routing**, **verifier loops**, and systems that survive real traffic not demos.
 
----
-
-## `> ACHIEVEMENTS.log`
+## `ACHIEVEMENTS`
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 
 ### 🏆 Certifications
 - ✅ **Microsoft Azure AI Professional**
@@ -64,19 +62,17 @@ I design and ship **enterprise-grade AI platforms** — from RAG pipelines and a
 <td width="50%">
 
 ### 🎖️ Milestones
-- 🚀 **Senior Software Engineer L5** — Fleekbiz (2024)
-- 🎤 **Speaker** — Computer Vision Seminar
-- 🎓 **ML Scholarship Recipient** — Top 10%
-- 🏅 **IoT Competition Winner** — Dawood UET
+- 🚀 **Senior Software Engineer L5** —> Fleekbiz (2024)
+- 🎤 **Speaker** —> Computer Vision Seminar
+- 🎓 **ML Scholarship Recipient** —> Top 10%
+- 🏅 **IoT Competition Winner** —> Dawood UET Karachi
 - 💼 **8+ roles** across 4 domains
 
 </td>
 </tr>
 </table>
 
----
-
-## `> EXPERIENCE.schedule`
+## `EXPERIENCE`
 
 | ID | Role | Organization | Period | Location |
 |:---|:-----|:-------------|:-------|:---------|
@@ -89,9 +85,7 @@ I design and ship **enterprise-grade AI platforms** — from RAG pipelines and a
 | `E-07` | **Computer Vision Research Intern** | Smart City Lab · NED UET | Dec 2019 – Mar 2020 | 🇵🇰 Karachi |
 | `E-08` | **Data Science Intern** | Love For Data | Aug 2019 – Nov 2019 | 🇵🇰 Karachi |
 
----
-
-## `> IMPACT.metrics`
+## `IMPACT`
 
 <div align="center">
 
@@ -102,9 +96,7 @@ I design and ship **enterprise-grade AI platforms** — from RAG pipelines and a
 
 </div>
 
----
-
-## `> FEATURED_PROJECTS.plan`
+## `FEATURED PROJECTS`
 
 ### 🏛️ [Lawli — Enterprise Legal AI](https://lawli.ai/)
 Enterprise-grade Legal AI leveraging LLMs, RAG, Azure OpenAI, and vector search for contextual legal knowledge retrieval. Built ingestion pipelines, semantic search, and memory-aware conversational systems with LangChain + LangGraph.
@@ -152,7 +144,7 @@ End-to-end ML pipeline using classification models for anomaly detection. Featur
 
 ---
 
-## `> TECH_STACK.specifications`
+## `TECHSTACK`
 
 <div align="center">
 
@@ -192,9 +184,7 @@ End-to-end ML pipeline using classification models for anomaly detection. Featur
 
 </div>
 
----
-
-## `> CORE_PROFICIENCY.chart`
+## `CORE PROFICIENCY`
 
 ```text
 Generative AI · LLMs · RAG        ████████████████████░  95%
@@ -207,9 +197,7 @@ Docker · CI/CD · DevOps           ██████████████�
 Computer Vision · ML              ███████████████░░░░░░  75%
 ```
 
----
-
-## `> GITHUB_STATS.dashboard`
+## `GITHUB STATS`
 
 <div align="center">
 
@@ -226,9 +214,7 @@ Computer Vision · ML              ███████████████
 
 </div>
 
----
-
-## `> LET'S_CONNECT.contact`
+## `LET'S CONNECT`
 
 <div align="center">
 
@@ -254,12 +240,11 @@ I'm always excited to discuss **new opportunities**, **cutting-edge AI**, or **c
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:7ee787,100:0d1117&height=120&section=footer&text=SYS.READY_&fontSize=22&fontColor=ffffff&animation=twinkling"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:7ee787,100:0d1117&height=100&section=footer"/>
 
-<sub>© 2025 <b>JAN ALI KAZMI</b> · ALL DIMENSIONS IN OUTCOMES</sub>
+<sub>© 2026 <b>JAN ALI KAZMI</b> · ALL DIMENSIONS IN OUTCOMES</sub>
 
 </div>
+
