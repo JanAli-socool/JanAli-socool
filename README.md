@@ -1,7 +1,7 @@
 <!-- ============ HERO BANNER (SVG Glass Effect) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7ee787,100:58a6ff&height=220&section=header&text=Jan%20Ali%20Kazmi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Engineer%20%C2%B7%20Building%20Intelligence%20That%20Scales&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7ee787,100:58a6ff&height=220&section=header&text=Jan%20Ali%20Kazmi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20System%20Architect%20%7C%20Lead%20Software%20Engineer%20%C2%B7%20Building%20Intelligence%20That%20Scales&descAlignY=60&descSize=16" width="100%"/>
 
 <!-- Animated typing subtitle -->
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@
 
 ```yaml
 Name:       Jan Ali Kazmi
-Role:       AI Systems Architect / Lead AI Engineer
+Role:       AI Systems Architect / Lead Software Engineer
 Location:   Karachi, Pakistan
 Experience: 6+ years
 Focus:      Generative AI, RAG, LLM Apps, Agentic Systems, Scalable Backends
