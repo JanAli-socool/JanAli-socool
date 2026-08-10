@@ -34,7 +34,7 @@
 
 ```yaml
 Name:       Jan Ali Kazmi
-Role:       Senior AI Engineer
+Role:       AI Systems Architect / Lead AI Engineer
 Location:   Karachi, Pakistan
 Experience: 6+ years
 Focus:      Generative AI, RAG, LLM Apps, Agentic Systems, Scalable Backends
